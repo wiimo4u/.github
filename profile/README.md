@@ -1,4 +1,4 @@
-# Wiimo
+# Endirema
 Pioneering the Future of Advanced Remote Monitoring 🚀
 
 ## learn more
